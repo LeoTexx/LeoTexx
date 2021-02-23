@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-- My name is Leonardo Teixeira from Brazil (🇧🇷). I've been working as FreeLancer Web Developer since 2020. I'm passionate about open source projects and Mobile Development, and that is what I'm learning rigth now!
+- My name is Leonardo Teixeira from Brazil (🇧🇷). I've been working as a Developer since 2020. I'm passionate about open source projects and Mobile Development, and that is what I'm learning rigth now!
 
 - 🤔 I’m looking for help with Back-End development and data security, in order to develop FullStack Software
 
